@@ -8,3 +8,5 @@ babababa
 babababa
 
 git status
+
+git diff
