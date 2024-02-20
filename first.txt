@@ -6,3 +6,5 @@ babababa
 
 
 babababa
+
+git status
